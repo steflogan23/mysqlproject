@@ -11,7 +11,7 @@ import projects.exception.DbException;
 /**
  * 
  */
-@SuppressWarnings("unused")
+
 public class DbConnection {
 
 	private static String HOST = "localhost";
